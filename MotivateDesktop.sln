@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MotivateDesktop", "MotivateDesktop\MotivateDesktop.csproj", "{D313BF7E-8A4A-4F09-809F-D031B0AB85DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Updater", "Updater\Updater.csproj", "{B2C874F1-837A-46C5-8855-3B1E01817751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D313BF7E-8A4A-4F09-809F-D031B0AB85DA}.Debug|x86.ActiveCfg = Release|x86
+		{D313BF7E-8A4A-4F09-809F-D031B0AB85DA}.Debug|x86.Build.0 = Release|x86
+		{D313BF7E-8A4A-4F09-809F-D031B0AB85DA}.Release|x86.ActiveCfg = Release|x86
+		{D313BF7E-8A4A-4F09-809F-D031B0AB85DA}.Release|x86.Build.0 = Release|x86
+		{B2C874F1-837A-46C5-8855-3B1E01817751}.Debug|x86.ActiveCfg = Release|x86
+		{B2C874F1-837A-46C5-8855-3B1E01817751}.Debug|x86.Build.0 = Release|x86
+		{B2C874F1-837A-46C5-8855-3B1E01817751}.Release|x86.ActiveCfg = Release|x86
+		{B2C874F1-837A-46C5-8855-3B1E01817751}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
