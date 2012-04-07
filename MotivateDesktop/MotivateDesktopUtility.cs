@@ -12,7 +12,7 @@ namespace MotivateDesktop
         public static string ImgServerUrl = "http://img.wordsmotivate.me/";
         public static string FormatAPIUrl = "http://api.wordsmotivate.me/WallpaperFormat.php";
         public static string WallpaperPackageDownloadUrl = "http://wordsmotivate.me/download";
-        public static string GitHubProjectPageUrl = "https://github.com/YuAo/";
+        public static string GitHubProjectPageUrl = "https://github.com/YuAo/Motivate-Desktop";
         public static string WorkingDirectory = getWorkingDirectory();
         private static string getWorkingDirectory()
         {
